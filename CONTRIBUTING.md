@@ -8,7 +8,7 @@ Now, it's your turn to make a difference!
 
 To encourage you to contribute, we offer the following incentive:
 
-**Each student enrolled in AIE210006.01 or CS10005.02 can earn 3 bonus points toward their final course grade per person by making a qualifying contribution following these guidelines.**
+**Each student enrolled in AIE210006.01 or CS10005.02 can earn 3 bonus points toward their final course grade by making a qualifying contribution following these guidelines.**
 
 ## Found a Bug?
 
